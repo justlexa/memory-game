@@ -50,7 +50,7 @@ ul {
 }
 
 li {
-    transition: border 0.75s ease-in-out;
+    transition: border 0.75s, ease-in-out;
     list-style: none;
     border: 2px solid black;
     border-radius: 10px;
